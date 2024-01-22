@@ -1,0 +1,82 @@
+Git & GitHub Crash Course
+
+1. What is a Version Control System?
+Version control, also known as source control, is tracking and managing software code changes.
+
+Famous VCS:
+
+ Git (Most Famous)
+Apache SubVersion
+Piper (Used by Google)
+
+2. Introduction to Git VCS
+What is Git?
+Installation of Git CLI
+Basic Git Commands
+Setting up Git Global Configuration
+
+3. Version Controlling with Git
+Initializing Git Project
+Adding Files to VCS
+git add <FILE_PATH>
+git add .
+Removing Files from VCS
+git rm <FILE_PATH>
+Introduction to Commits
+Committing Files
+git commit -m "MESSAGE"
+Staging Area
+Logging Commit History
+git log
+git log --oneline
+Reverting Back
+
+4. Git VS GitHub
+What are Git and GitServer
+Popular Git Servers
+GitHub
+GitLab
+BitBucket
+Git Remotes
+Pushing and Pulling in Git
+Self-Hosted Git Server
+
+5. Branching in Git
+Introduction to Branching Concept.
+Creating Branches
+git brach <BRANCH NAME>
+git checkout <BR_NAME>
+git checkout -b "BR_NAME"
+Branch Tags
+feat/feat-name
+Merging Branches
+Merge
+Rebase
+Stashing
+
+What is git?
+Git is a distributed version control system that tracks changes in any set of computer files, usually used for coordinating work among programmers who are collaboratively developing source code during software development.
+
+git is version control system then 
+
+What is version control system?
+Version control is the practice of tracking and managing changes to software/source code.
+
+How/why does version control tracks software code?
+
+Let's understand why:
+   - In a large software there are millions of   code. to managing the code you use version control.
+   - If there is bug in latest version of your  software you can easily switch to old or previous version of software.
+   - git have track record of every version and very minor to major versions od software.
+
+Let's understand How:
+    Suppose you have file index.js
+        const name="saiej";
+
+        some code then another contributor
+        contribute
+
+        const username="hemanta01";
+        git capture snapshot of every changes
+        thats how git is called version control system
+        
