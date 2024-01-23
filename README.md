@@ -3,19 +3,19 @@
 |No.| Topic| Resources|
 |---|---|---|
 |1.|[Git](#what-is-git)|[link](/src/git-cheat-sheet-education.pdf)|
-|2.|[GitHub](#what-is-version-control-system)|
-|3.|[Open-source Contribution ](#what-is-version-control-system)|
+  |3.|[Git and GitHub](#git-and-github)|[link](src/diffgitgithub.svg)|
+|2.|[GitHub](#github)|
+|4.|[Open-source Contribution ](#what-is-version-control-system)|
 
 ---
 
-## Learning objectives
+#### Learning objectives
   In this module, you'll Learn:
 - What git is
 - what version control is
 - Understand distributed version control systems, like Git
-- Recognize the differences between Git and GitHub and the - roles they play in the software development lifecycle
 
-### What is git?
+## What is git?
 
 Git is a distributed `version control system` that tracks changes in any set of computer files, usually used for coordinating work among programmers who are collaboratively developing source code during software development.
 
@@ -69,3 +69,38 @@ To verify the installation use this command
 ```
 |![git -v](src/gitv.png)|
 |---|
+
+### Basic Git commands
+*Follow this [**link**](src/gitcommands.md)*
+
+---
+### Summary
+ You learned:
+- An overview of Version Control Systems (VCS)
+- Important Git terminology.
+- How to configure Git.
+- Some basic Git commands.
+
+### Resources
+If you'd like to dig deeper, here are more resources:
+
+- Run the `git help tutorial` commands.
+- Visit the [*Everyday Git*](https://git-scm.com/docs/everyday) site.
+- Review [*Git and GitHub learning*](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources) resources.
+- Check out [*Git Pro Book*](https://git-scm.com/book/en/v2) | [*Git Docs*](https://git-scm.com/doc)
+---
+
+## Git and Github
+|![git](src/diffgitgithub.svg)|
+|---|
+
+---
+## GitHub
+Learning objectives
+In this module, you will:
+
+- Identify the fundamental features of GitHub
+- Learn about repository management
+- Gain an understanding of the GitHub flow, including branches,commits, and pull requests
+- Explore the collaborative features of GitHub by reviewing issues and discussions
+- Recognize how to manage your GitHub notifications and subscriptions
