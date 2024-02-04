@@ -80,3 +80,49 @@ Let's understand How:
         git capture snapshot of every changes
         thats how git is called version control system
         
+
+```mermaid
+flowchart LR
+    A((Git Commands)) ---> B((Git configuration))
+    B ---> BA(Git Config)
+    B ---> BB(Git alias)
+
+    A ---> C((Staging & Commits))
+    C ---> CA(Git Init)
+    C ---> CB(Git Add)
+    C ---> CC(Git Commit)
+    C ---> CD(Git Clone)
+    C ---> CE(Git Stash)
+    C ---> CF(Git Ignore)
+    C ---> CG(Git Fork)
+    C ---> CH(Git Repository)
+    C ---> CI(Git Index)
+    C ---> CJ(Git Head)
+    C ---> CK(Git Origin Main)
+    C ---> CL(Git Tags)
+    C ---> CM(Upstream & Downstream)
+
+    A ---> D((Undoing Changes))
+    D ---> DA(Git Checkout)
+    D ---> DB(Git Revert)
+    D ---> DC(Git Reset)
+    D ---> DD(Git Rm)
+    D ---> DE(Git Cherry-pick)
+
+    A ---> E((Inspecting Changes))
+    E ---> EA(Git Log)
+    E ---> EB(Git Diff)
+    E ---> EC(Git Status)
+
+    A ---> F((Branching & Merging))
+    F ---> FA(Git Branch)
+    F ---> FB(Merge & Merge Conflict)
+    F ---> FC(Git Rebase)
+    F ---> FD(Git Squash)
+
+    A ---> G((Collabrating))
+    G ---> GA(Git Fetch)
+    G ---> GB(Git Pull)
+    G ---> GC(Git Push)
+
+```

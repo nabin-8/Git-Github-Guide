@@ -71,7 +71,7 @@ To verify the installation use this command
 |---|
 
 ### Basic Git commands
-*Follow this [**link**](src/gitcommands.md)*
+### *Follow this [**link**](src/gitcommands.md)*
 
 ---
 ### Summary
