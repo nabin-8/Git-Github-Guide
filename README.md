@@ -2,10 +2,11 @@
 ## Content
 |No.| Topic| Resources|
 |---|---|---|
-|1.|[Git](#what-is-git)|[link](/src/git-cheat-sheet-education.pdf)|
-  |3.|[Git and GitHub](#git-and-github)|[link](src/diffgitgithub.svg)|
-|2.|[GitHub](#github)|
-|4.|[Open-source Contribution ](#what-is-version-control-system)|
+|1.|[Git](#what-is-git) |[link](/src/git-cheat-sheet-education.pdf)|
+|3.|[Git Basic Commands](/src/gitcommands.md)|[link](/src/gitcommands.md)|
+|4.|[Git and GitHub](#git-and-github)|[link](src/diffgitgithub.svg)|
+|5.|[GitHub](#github)|
+|6.|[Open-source Contribution ](#what-is-version-control-system)|
 
 ---
 
