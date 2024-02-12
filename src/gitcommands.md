@@ -47,6 +47,22 @@ flowchart RL
 ```
 
 ---
+|No.|Content| link|
+|---|---|---|
+|1. |Git-configuration|[link](#1-git-configuration)|
+|2. |Starting-a-project|[link](#2-starting-a-project)|
+|3. |Local-changes|[link](#3-local-changes)|
+|4. |Track-changes|[link](#4-track-changes)|
+|5. |Commit-history|[link](#5-commit-history)|
+|6. |Ignoring-files|[link](#6-ignoring-files)|
+|7. |Branching|[link](#7-branching)|
+|8. |Merging|[link](#8-merging)|
+|9. |Remote|[link](#9-remote)|
+|10. |Pushing-updates|[link](#10-pushing-updates)|
+|11 |Pulling-updates|[link](#11-pulling-updates)|
+|12. |Undo-changes|[link](#12-undo-changes)|
+|13. |Removing-files|[link](#13-removing-files)|
+
 ### 1. Git configuration
 
 - Git config
